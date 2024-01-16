@@ -13,8 +13,8 @@ import ujson
 import network
 
 #WLAN connection
-ssid = 'Insert_wifi_joke'
-password = 'tisztaforras'
+ssid = 'xy'
+password = 'xy'
 
 def connect():
     #Connect to WLAN
