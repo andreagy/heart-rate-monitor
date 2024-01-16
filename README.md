@@ -1,5 +1,5 @@
-### Heart Rate Monitor
-## First year Health Technology Hardware course project
+# Heart Rate Monitor
+### First year Health Technology Hardware course project
 
 ![image](https://github.com/andreagy/heart-rate-monitor/assets/112083530/c1d40e20-b950-492c-9055-b04c9fe404f5)
 
